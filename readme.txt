@@ -2,7 +2,7 @@
 Contributors: it.elevenpaths
 Tags: authentication, security, plugin
 Requires at least: 1.5
-Tested up to: 4.0
+Tested up to: 4.1
 Stable tag: 2.1
 License: GPLv2
 
