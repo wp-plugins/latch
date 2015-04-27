@@ -2,7 +2,7 @@
 Contributors: it.elevenpaths
 Tags: authentication, security, plugin
 Requires at least: 1.5
-Tested up to: 4.1
+Tested up to: 4.2
 Stable tag: 2.1
 License: GPLv2
 
@@ -11,8 +11,8 @@ This Plugin allows developers to integrate Latch on his/her WordPress service.
 
 == Description ==
 
-This Plugin allows developers to integrate Latch on his/her WordPress service. Latch is a service that lets end-users add an extra level of security to their online accounts and services. 
-With this version of the Plugin, developers can pair and unpair users and check their latches status. For more information please visit https://latch.elevenpaths.com or the Plugin page on GitHub https://github.com/ElevenPaths/latch-plugin-wordpress
+This Plugin allows developers to [integrate Latch on his/her WordPress service](https://latch.elevenpaths.com/www/public/documents/resources/plugin_manuals/en/Wordpress.pdf). Latch is a service that lets end-users add an extra level of security to their online accounts and services. 
+With this version of the Plugin, developers can pair and unpair users and check their latches status. For more information please visit https://latch.elevenpaths.com or the Plugin page on GitHub https://github.com/ElevenPaths/latch-plugin-wordpress.
 
 
 
